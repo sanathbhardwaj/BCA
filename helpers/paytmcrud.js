@@ -33,7 +33,9 @@ if(object.email){
     console.log("Invalid or empty mail");
 }
 
-res.send("Hi payment successful");
+
+res.redirect('https://p-y.tm/5p-TJxI');
+//res.send("Hi payment successful");
     }
 }
 
