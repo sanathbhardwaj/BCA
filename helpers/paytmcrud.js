@@ -34,7 +34,7 @@ if(object.email){
 }
 
 
-res.redirect('https://p-y.tm/5p-TJxI');
+res.redirect('https://p-y.tm/u-diNLS');
 //res.send("Hi payment successful");
     }
 }
